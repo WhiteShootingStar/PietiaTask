@@ -1,0 +1,74 @@
+Current Mongosh Log ID:	61773534f24466925b0578b8
+Connecting to:		mongodb+srv://cluster0.cud6a.mongodb.net/myFirstDatabase
+Using MongoDB:		4.4.10
+Using Mongosh:		1.1.0
+
+For mongosh info see: [1mhttps://docs.mongodb.com/mongodb-shell/[0m
+
+Loading file: ./mongoDB_Results/task2_3_agr.js
+[
+  { _id: 'Staff Accountant III' },
+  { _id: 'Associate Professor' },
+  { _id: 'Senior Financial Analyst' },
+  { _id: 'Statistician III' },
+  { _id: 'Quality Control Specialist' },
+  { _id: 'Administrative Assistant I' },
+  { _id: 'Health Coach III' },
+  { _id: 'Compensation Analyst' },
+  { _id: 'Automation Specialist IV' },
+  { _id: 'Web Designer III' },
+  { _id: 'Legal Assistant' },
+  { _id: 'Speech Pathologist' },
+  { _id: 'Staff Accountant IV' },
+  { _id: 'Media Manager IV' },
+  { _id: 'Web Developer II' },
+  { _id: 'Senior Editor' },
+  { _id: 'Recruiter' },
+  { _id: 'Marketing Manager' },
+  { _id: 'Biostatistician II' },
+  { _id: 'Software Test Engineer III' }
+]
+Type "it" for more
+{
+  _id: ObjectId("6169c546af8a20a4ef3b1ee6"),
+  sex: 'Female',
+  first_name: 'Lois',
+  last_name: 'Garcia',
+  job: 'Safety Technician II',
+  email: 'lgarcia8r@reuters.com',
+  location: {
+    city: 'Turinsk',
+    address: { streetname: 'Magdeline', streetnumber: '09' }
+  },
+  description: 'interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa',
+  height: '172.79',
+  weight: '60.37',
+  birth_date: '1965-07-09T16:13:09Z',
+  nationality: 'Russia',
+  credit: [
+    {
+      type: 'maestro',
+      number: '3535474355393526',
+      currency: 'EUR',
+      balance: '5457.23'
+    },
+    {
+      type: 'americanexpress',
+      number: '337941929622586',
+      currency: 'SEK',
+      balance: '3733.14'
+    },
+    {
+      type: 'bankcard',
+      number: '30288472474977',
+      currency: 'CNY',
+      balance: '5841.67'
+    },
+    {
+      type: 'mastercard',
+      number: '3588282837289741',
+      currency: 'XCD',
+      balance: '5346.45'
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+Current Mongosh Log ID:	617731ab083072fc5106245d
+Connecting to:		mongodb+srv://cluster0.cud6a.mongodb.net/myFirstDatabase
+Using MongoDB:		4.4.10
+Using Mongosh:		1.1.0
+
+For mongosh info see: [1mhttps://docs.mongodb.com/mongodb-shell/[0m
+
+Loading file: ./mongoDB_Results/task2_2_agr.js
+[
+  { _id: 'STD', total_sum: 4854.36 },
+  { _id: 'THB', total_sum: 2084269.88 },
+  { _id: 'MWK', total_sum: 88106.83 },
+  { _id: 'BIF', total_sum: 45782.33 },
+  { _id: 'GTQ', total_sum: 588368.85 },
+  { _id: 'VEF', total_sum: 629053.41 },
+  { _id: 'CVE', total_sum: 46538.51 },
+  { _id: 'ERN', total_sum: 21598.47 },
+  { _id: 'ISK', total_sum: 39048.74 },
+  { _id: 'SGD', total_sum: 12820.48 },
+  { _id: 'BOB', total_sum: 257433.54 },
+  { _id: 'PHP', total_sum: 8223429.02 },
+  { _id: 'JPY', total_sum: 2584824.9 },
+  { _id: 'BSD', total_sum: 55361.39 },
+  { _id: 'PEN', total_sum: 2356548.02 },
+  { _id: 'UZS', total_sum: 330309.61 },
+  { _id: 'CUP', total_sum: 514413.88 },
+  { _id: 'GHS', total_sum: 83159.05 },
+  { _id: 'USD', total_sum: 4086760.81 },
+  { _id: 'HRK', total_sum: 689403.5 }
+]
+Type "it" for more

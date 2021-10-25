@@ -1,0 +1,31 @@
+Current Mongosh Log ID:	61773f298b18db411083163d
+Connecting to:		mongodb+srv://cluster0.cud6a.mongodb.net/myFirstDatabase
+Using MongoDB:		4.4.10
+Using Mongosh:		1.1.0
+
+For mongosh info see: [1mhttps://docs.mongodb.com/mongodb-shell/[0m
+
+Loading file: ./mongoDB_Results/task2_5_agr.js
+[
+  { _id: 'MXN', total_sum: 50229 },
+  { _id: 'AFN', total_sum: 16755.49 },
+  { _id: 'ZMW', total_sum: 5569.56 },
+  { _id: 'MNT', total_sum: 21715.61 },
+  { _id: 'GBP', total_sum: 6149.19 },
+  { _id: 'EUR', total_sum: 245091.47 },
+  { _id: 'ZWL', total_sum: 5792.17 },
+  { _id: 'VND', total_sum: 36160.26 },
+  { _id: 'PKR', total_sum: 18938 },
+  { _id: 'MMK', total_sum: 4629.42 },
+  { _id: 'KRW', total_sum: 13379.82 },
+  { _id: 'HNL', total_sum: 16514.59 },
+  { _id: 'RWF', total_sum: 4632.88 },
+  { _id: 'MKD', total_sum: 3835.05 },
+  { _id: 'NIO', total_sum: 9971.28 },
+  { _id: 'MYR', total_sum: 4781.12 },
+  { _id: 'CDF', total_sum: 12228.8 },
+  { _id: 'ETB', total_sum: 5436.11 },
+  { _id: 'BWP', total_sum: 4076.29 },
+  { _id: 'TJS', total_sum: 4087.71 }
+]
+Type "it" for more

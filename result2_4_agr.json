@@ -1,0 +1,121 @@
+Current Mongosh Log ID:	61773e85a855d20f9ea263f4
+Connecting to:		mongodb+srv://cluster0.cud6a.mongodb.net/myFirstDatabase
+Using MongoDB:		4.4.10
+Using Mongosh:		1.1.0
+
+For mongosh info see: [1mhttps://docs.mongodb.com/mongodb-shell/[0m
+
+Loading file: ./mongoDB_Results/task2_4_agr.js
+[
+  {
+    _id: 'Belarus',
+    avg_BMI: 118.57511627906977,
+    max_BMI: 125.12,
+    min_BMI: 109.965
+  },
+  {
+    _id: 'Greece',
+    avg_BMI: 118.34332061068703,
+    max_BMI: 132.665,
+    min_BMI: 100.86000000000001
+  },
+  {
+    _id: 'Ireland',
+    avg_BMI: 118.99608108108107,
+    max_BMI: 129.93,
+    min_BMI: 107.435
+  },
+  {
+    _id: 'Cameroon',
+    avg_BMI: 120.5095,
+    max_BMI: 129.995,
+    min_BMI: 103.6
+  },
+  { _id: 'Togo', avg_BMI: 120.696, max_BMI: 124.03, min_BMI: 114.56 },
+  { _id: 'Spain', avg_BMI: 118.271, max_BMI: 130.865, min_BMI: 105.34 },
+  {
+    _id: 'Benin',
+    avg_BMI: 121.88499999999999,
+    max_BMI: 130.595,
+    min_BMI: 115.88
+  },
+  {
+    _id: 'Seychelles',
+    avg_BMI: 114.005,
+    max_BMI: 114.005,
+    min_BMI: 114.005
+  },
+  {
+    _id: 'Japan',
+    avg_BMI: 118.47352777777778,
+    max_BMI: 130.695,
+    min_BMI: 103.595
+  },
+  {
+    _id: 'Zimbabwe',
+    avg_BMI: 115.873,
+    max_BMI: 124.62,
+    min_BMI: 108.49000000000001
+  },
+  {
+    _id: 'Paraguay',
+    avg_BMI: 118.22029411764706,
+    max_BMI: 128.19,
+    min_BMI: 108.59
+  },
+  {
+    _id: 'Kiribati',
+    avg_BMI: 117.37,
+    max_BMI: 117.37,
+    min_BMI: 117.37
+  },
+  {
+    _id: 'Sweden',
+    avg_BMI: 118.2284423076923,
+    max_BMI: 133.435,
+    min_BMI: 102.47500000000001
+  },
+  {
+    _id: 'Costa Rica',
+    avg_BMI: 119.1196875,
+    max_BMI: 129.105,
+    min_BMI: 106.43
+  },
+  {
+    _id: 'Sierra Leone',
+    avg_BMI: 119.30699999999999,
+    max_BMI: 122.465,
+    min_BMI: 113.13
+  },
+  {
+    _id: 'Syria',
+    avg_BMI: 119.16105263157894,
+    max_BMI: 131.04500000000002,
+    min_BMI: 105.4
+  },
+  {
+    _id: 'Bangladesh',
+    avg_BMI: 119.6425,
+    max_BMI: 132.39999999999998,
+    min_BMI: 105.805
+  },
+  {
+    _id: 'Gabon',
+    avg_BMI: 127.19999999999999,
+    max_BMI: 129.575,
+    min_BMI: 124.825
+  },
+  {
+    _id: 'Dominica',
+    avg_BMI: 121.135,
+    max_BMI: 121.135,
+    min_BMI: 121.135
+  },
+  {
+    _id: 'Hong Kong',
+    avg_BMI: 122.195,
+    max_BMI: 122.195,
+    min_BMI: 122.195
+  }
+]
+Type "it" for more
