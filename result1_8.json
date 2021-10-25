@@ -1,0 +1,15 @@
+Current Mongosh Log ID:	61771b986268a8ad3bd56234
+Connecting to:		mongodb+srv://cluster0.cud6a.mongodb.net/myFirstDatabase
+Using MongoDB:		4.4.10
+Using Mongosh:		1.1.0
+
+For mongosh info see: [1mhttps://docs.mongodb.com/mongodb-shell/[0m
+
+Loading file: ./mongoDB_Results/task1_8.js
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 2,
+  modifiedCount: 2,
+  upsertedCount: 0
+}

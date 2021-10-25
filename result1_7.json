@@ -1,0 +1,9 @@
+Current Mongosh Log ID:	6173053ebf7ce5dc674848db
+Connecting to:		mongodb+srv://cluster0.cud6a.mongodb.net/myFirstDatabase
+Using MongoDB:		4.4.10
+Using Mongosh:		1.1.0
+
+For mongosh info see: [1mhttps://docs.mongodb.com/mongodb-shell/[0m
+
+Loading file: ./mongoDB_Results/task1_7.js
+{ acknowledged: true, deletedCount: 123 }

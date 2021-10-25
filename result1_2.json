@@ -1,0 +1,57 @@
+Current Mongosh Log ID:	6172fa801fb4506f62315a8e
+Connecting to:		mongodb+srv://cluster0.cud6a.mongodb.net/myFirstDatabase
+Using MongoDB:		4.4.10
+Using Mongosh:		1.1.0
+
+For mongosh info see: [1mhttps://docs.mongodb.com/mongodb-shell/[0m
+
+Loading file: ./mongoDB_Results/task1_2.js
+{
+  _id: ObjectId("6169c546af8a20a4ef3b1dc9"),
+  sex: 'Female',
+  first_name: 'Marilyn',
+  last_name: 'Gonzalez',
+  job: 'Physical Therapy Assistant',
+  email: 'mgonzalezr@patch.com',
+  location: {
+    city: 'Pingshan',
+    address: { streetname: 'Prairie Rose', streetnumber: '72' }
+  },
+  description: 'turpis a pede posuere nonummy integer non velit donec diam neque vestibulum',
+  height: '157.04',
+  weight: '71.38',
+  birth_date: '1944-07-23T19:11:32Z',
+  nationality: 'China',
+  credit: [
+    {
+      type: 'switch',
+      number: '5105897816827440',
+      currency: 'ARS',
+      balance: '5622.45'
+    },
+    {
+      type: 'jcb',
+      number: '3574522187008860',
+      currency: 'IDR',
+      balance: '2800.36'
+    },
+    {
+      type: 'visa',
+      number: '6759753264598684054',
+      currency: 'COP',
+      balance: '4076.81'
+    },
+    {
+      type: 'maestro',
+      number: '3585089079276820',
+      currency: 'UAH',
+      balance: '4268.35'
+    },
+    {
+      type: 'china-unionpay',
+      number: '201496495978998',
+      currency: 'SEK',
+      balance: '5686.73'
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+Current Mongosh Log ID:	6177142a1ee40c8711014331
+Connecting to:		mongodb+srv://cluster0.cud6a.mongodb.net/myFirstDatabase
+Using MongoDB:		4.4.10
+Using Mongosh:		1.1.0
+
+For mongosh info see: [1mhttps://docs.mongodb.com/mongodb-shell/[0m
+
+Loading file: ./mongoDB_Results/task1_1.js
+{
+  _id: ObjectId("6169c546af8a20a4ef3b1db0"),
+  sex: 'Male',
+  first_name: 'Anthony',
+  last_name: 'Nichols',
+  job: 'Internal Auditor',
+  email: 'anichols3@google.co.uk',
+  location: {
+    city: 'Jepuro',
+    address: { streetname: 'La Follette', streetnumber: '03661' }
+  },
+  description: 'ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar',
+  height: '162.68',
+  weight: '68.37',
+  birth_date: '2013-05-23T16:10:58Z',
+  nationality: 'Indonesia',
+  credit: [
+    {
+      type: 'jcb',
+      number: '4017957170327',
+      currency: 'RUB',
+      balance: '4463.86'
+    }
+  ]
+}
