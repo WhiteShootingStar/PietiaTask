@@ -1,0 +1,10 @@
+Current Mongosh Log ID:	617865b0f8d42e17f0f837bd
+Connecting to:		mongodb+srv://cluster0.cud6a.mongodb.net/myFirstDatabase
+Using MongoDB:		4.4.10
+Using Mongosh:		1.1.0
+
+For mongosh info see: [1mhttps://docs.mongodb.com/mongodb-shell/[0m
+
+Loading file: ./mongoDB_Results/task2_1_mr.js
+DeprecationWarning: Collection.mapReduce() is deprecated. Use an aggregation instead.
+See https://docs.mongodb.com/manual/core/map-reduce for details.
