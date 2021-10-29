@@ -3,8 +3,8 @@ var mapFunction=function(){
 var key= this.nationality
 var value={
 count:1,
-weight: parceFloat(this.weight),
-height:parceFloat(this.height),
+weight: parseFloat(this.weight),
+height:parseFloat(this.height),
 BMI:0,
 BMI_min:99999,
 BMI_max:-1

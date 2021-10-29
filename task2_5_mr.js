@@ -7,7 +7,7 @@ var value={
 };
 
 for (var i=0; i<keys.length;i++){
-	value.sum=parceFloat(keys[i].balance);
+	value.sum=parseFloat(keys[i].balance);
 	if(this.nationality ==="Poland" && this.sex==="Female"){
 		emit(keys[i].currency,value);
 	}

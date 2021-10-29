@@ -1,74 +1,637 @@
-Current Mongosh Log ID:	61773534f24466925b0578b8
-Connecting to:		mongodb+srv://cluster0.cud6a.mongodb.net/myFirstDatabase
-Using MongoDB:		4.4.10
-Using Mongosh:		1.1.0
-
-For mongosh info see: [1mhttps://docs.mongodb.com/mongodb-shell/[0m
-
-Loading file: ./mongoDB_Results/task2_3_agr.js
+MongoDB shell version v5.0.3
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("a7912ef2-2b44-4235-bc0e-a60202df54b0") }
+MongoDB server version: 5.0.3
 [
-  { _id: 'Staff Accountant III' },
-  { _id: 'Associate Professor' },
-  { _id: 'Senior Financial Analyst' },
-  { _id: 'Statistician III' },
-  { _id: 'Quality Control Specialist' },
-  { _id: 'Administrative Assistant I' },
-  { _id: 'Health Coach III' },
-  { _id: 'Compensation Analyst' },
-  { _id: 'Automation Specialist IV' },
-  { _id: 'Web Designer III' },
-  { _id: 'Legal Assistant' },
-  { _id: 'Speech Pathologist' },
-  { _id: 'Staff Accountant IV' },
-  { _id: 'Media Manager IV' },
-  { _id: 'Web Developer II' },
-  { _id: 'Senior Editor' },
-  { _id: 'Recruiter' },
-  { _id: 'Marketing Manager' },
-  { _id: 'Biostatistician II' },
-  { _id: 'Software Test Engineer III' }
+	{
+		"_id" : "Quality Control Specialist"
+	},
+	{
+		"_id" : "Developer I"
+	},
+	{
+		"_id" : "Structural Engineer"
+	},
+	{
+		"_id" : "Software Test Engineer III"
+	},
+	{
+		"_id" : "Senior Financial Analyst"
+	},
+	{
+		"_id" : "Associate Professor"
+	},
+	{
+		"_id" : "Chief Design Engineer"
+	},
+	{
+		"_id" : "Environmental Tech"
+	},
+	{
+		"_id" : "Senior Editor"
+	},
+	{
+		"_id" : "Statistician III"
+	},
+	{
+		"_id" : "Systems Administrator IV"
+	},
+	{
+		"_id" : "Biostatistician III"
+	},
+	{
+		"_id" : "Compensation Analyst"
+	},
+	{
+		"_id" : "Paralegal"
+	},
+	{
+		"_id" : "Recruiter"
+	},
+	{
+		"_id" : "Developer IV"
+	},
+	{
+		"_id" : "Programmer Analyst II"
+	},
+	{
+		"_id" : "Web Designer III"
+	},
+	{
+		"_id" : "Chemical Engineer"
+	},
+	{
+		"_id" : "Health Coach II"
+	},
+	{
+		"_id" : "Web Developer II"
+	},
+	{
+		"_id" : "Biostatistician IV"
+	},
+	{
+		"_id" : "Nurse"
+	},
+	{
+		"_id" : "Health Coach III"
+	},
+	{
+		"_id" : "Database Administrator II"
+	},
+	{
+		"_id" : "Software Test Engineer I"
+	},
+	{
+		"_id" : "Database Administrator I"
+	},
+	{
+		"_id" : "Staff Accountant IV"
+	},
+	{
+		"_id" : "Administrative Assistant III"
+	},
+	{
+		"_id" : "Programmer IV"
+	},
+	{
+		"_id" : "Assistant Professor"
+	},
+	{
+		"_id" : "Account Coordinator"
+	},
+	{
+		"_id" : "VP Sales"
+	},
+	{
+		"_id" : "Analog Circuit Design manager"
+	},
+	{
+		"_id" : "Automation Specialist I"
+	},
+	{
+		"_id" : "Research Nurse"
+	},
+	{
+		"_id" : "Office Assistant II"
+	},
+	{
+		"_id" : "Research Assistant IV"
+	},
+	{
+		"_id" : "Web Designer IV"
+	},
+	{
+		"_id" : "Marketing Manager"
+	},
+	{
+		"_id" : "Food Chemist"
+	},
+	{
+		"_id" : "Human Resources Manager"
+	},
+	{
+		"_id" : "Software Consultant"
+	},
+	{
+		"_id" : "Automation Specialist IV"
+	},
+	{
+		"_id" : "Programmer III"
+	},
+	{
+		"_id" : "Legal Assistant"
+	},
+	{
+		"_id" : "Mechanical Systems Engineer"
+	},
+	{
+		"_id" : "Office Assistant III"
+	},
+	{
+		"_id" : "Internal Auditor"
+	},
+	{
+		"_id" : "Dental Hygienist"
+	},
+	{
+		"_id" : "Research Assistant II"
+	},
+	{
+		"_id" : "Health Coach IV"
+	},
+	{
+		"_id" : "Developer II"
+	},
+	{
+		"_id" : "Budget/Accounting Analyst II"
+	},
+	{
+		"_id" : "Statistician I"
+	},
+	{
+		"_id" : "Senior Quality Engineer"
+	},
+	{
+		"_id" : "Sales Associate"
+	},
+	{
+		"_id" : "Recruiting Manager"
+	},
+	{
+		"_id" : "Administrative Assistant IV"
+	},
+	{
+		"_id" : "Geologist II"
+	},
+	{
+		"_id" : "Systems Administrator II"
+	},
+	{
+		"_id" : "Data Coordiator"
+	},
+	{
+		"_id" : "Professor"
+	},
+	{
+		"_id" : "Executive Secretary"
+	},
+	{
+		"_id" : "Occupational Therapist"
+	},
+	{
+		"_id" : "Programmer Analyst I"
+	},
+	{
+		"_id" : "VP Accounting"
+	},
+	{
+		"_id" : "Systems Administrator I"
+	},
+	{
+		"_id" : "Director of Sales"
+	},
+	{
+		"_id" : "Safety Technician III"
+	},
+	{
+		"_id" : "Civil Engineer"
+	},
+	{
+		"_id" : "Research Assistant III"
+	},
+	{
+		"_id" : "Staff Scientist"
+	},
+	{
+		"_id" : "Computer Systems Analyst I"
+	},
+	{
+		"_id" : "Junior Executive"
+	},
+	{
+		"_id" : "Accountant IV"
+	},
+	{
+		"_id" : "Accountant III"
+	},
+	{
+		"_id" : "Statistician IV"
+	},
+	{
+		"_id" : "Tax Accountant"
+	},
+	{
+		"_id" : "Analyst Programmer"
+	},
+	{
+		"_id" : "General Manager"
+	},
+	{
+		"_id" : "Biostatistician II"
+	},
+	{
+		"_id" : "Media Manager II"
+	},
+	{
+		"_id" : "Operator"
+	},
+	{
+		"_id" : "Safety Technician IV"
+	},
+	{
+		"_id" : "Media Manager I"
+	},
+	{
+		"_id" : "Assistant Media Planner"
+	},
+	{
+		"_id" : "Budget/Accounting Analyst I"
+	},
+	{
+		"_id" : "VP Quality Control"
+	},
+	{
+		"_id" : "Office Assistant I"
+	},
+	{
+		"_id" : "Human Resources Assistant II"
+	},
+	{
+		"_id" : "Account Representative II"
+	},
+	{
+		"_id" : "Software Test Engineer II"
+	},
+	{
+		"_id" : "Clinical Specialist"
+	},
+	{
+		"_id" : "Accountant I"
+	},
+	{
+		"_id" : "Computer Systems Analyst IV"
+	},
+	{
+		"_id" : "Engineer III"
+	},
+	{
+		"_id" : "Media Manager III"
+	},
+	{
+		"_id" : "Geological Engineer"
+	},
+	{
+		"_id" : "Nurse Practicioner"
+	},
+	{
+		"_id" : "Biostatistician I"
+	},
+	{
+		"_id" : "Registered Nurse"
+	},
+	{
+		"_id" : "Account Representative I"
+	},
+	{
+		"_id" : "Accountant II"
+	},
+	{
+		"_id" : "Structural Analysis Engineer"
+	},
+	{
+		"_id" : "Software Test Engineer IV"
+	},
+	{
+		"_id" : "Human Resources Assistant IV"
+	},
+	{
+		"_id" : "Librarian"
+	},
+	{
+		"_id" : "Graphic Designer"
+	},
+	{
+		"_id" : "Accounting Assistant II"
+	},
+	{
+		"_id" : "Quality Engineer"
+	},
+	{
+		"_id" : "Senior Cost Accountant"
+	},
+	{
+		"_id" : "Staff Accountant I"
+	},
+	{
+		"_id" : "Human Resources Assistant I"
+	},
+	{
+		"_id" : "Geologist III"
+	},
+	{
+		"_id" : "Engineer IV"
+	},
+	{
+		"_id" : "Electrical Engineer"
+	},
+	{
+		"_id" : "Budget/Accounting Analyst IV"
+	},
+	{
+		"_id" : "Statistician II"
+	},
+	{
+		"_id" : "Database Administrator III"
+	},
+	{
+		"_id" : "Budget/Accounting Analyst III"
+	},
+	{
+		"_id" : "Human Resources Assistant III"
+	},
+	{
+		"_id" : "Web Developer I"
+	},
+	{
+		"_id" : "Community Outreach Specialist"
+	},
+	{
+		"_id" : "Product Engineer"
+	},
+	{
+		"_id" : "Staff Accountant III"
+	},
+	{
+		"_id" : "Help Desk Operator"
+	},
+	{
+		"_id" : "Web Designer I"
+	},
+	{
+		"_id" : "Web Developer IV"
+	},
+	{
+		"_id" : "Project Manager"
+	},
+	{
+		"_id" : "Research Assistant I"
+	},
+	{
+		"_id" : "Actuary"
+	},
+	{
+		"_id" : "Web Developer III"
+	},
+	{
+		"_id" : "Database Administrator IV"
+	},
+	{
+		"_id" : "Web Designer II"
+	},
+	{
+		"_id" : "Pharmacist"
+	},
+	{
+		"_id" : "Teacher"
+	},
+	{
+		"_id" : "Automation Specialist II"
+	},
+	{
+		"_id" : "Office Assistant IV"
+	},
+	{
+		"_id" : "Accounting Assistant III"
+	},
+	{
+		"_id" : "Safety Technician II"
+	},
+	{
+		"_id" : "Media Manager IV"
+	},
+	{
+		"_id" : "Help Desk Technician"
+	},
+	{
+		"_id" : "Environmental Specialist"
+	},
+	{
+		"_id" : "Sales Representative"
+	},
+	{
+		"_id" : "Administrative Assistant II"
+	},
+	{
+		"_id" : "Physical Therapy Assistant"
+	},
+	{
+		"_id" : "Senior Developer"
+	},
+	{
+		"_id" : "Programmer II"
+	},
+	{
+		"_id" : "Programmer Analyst III"
+	},
+	{
+		"_id" : "GIS Technical Architect"
+	},
+	{
+		"_id" : "Accounting Assistant IV"
+	},
+	{
+		"_id" : "Cost Accountant"
+	},
+	{
+		"_id" : "Desktop Support Technician"
+	},
+	{
+		"_id" : "Senior Sales Associate"
+	},
+	{
+		"_id" : "Software Engineer I"
+	},
+	{
+		"_id" : "Technical Writer"
+	},
+	{
+		"_id" : "Systems Administrator III"
+	},
+	{
+		"_id" : "Financial Analyst"
+	},
+	{
+		"_id" : "Programmer Analyst IV"
+	},
+	{
+		"_id" : "Financial Advisor"
+	},
+	{
+		"_id" : "Account Executive"
+	},
+	{
+		"_id" : "Computer Systems Analyst III"
+	},
+	{
+		"_id" : "Research Associate"
+	},
+	{
+		"_id" : "Automation Specialist III"
+	},
+	{
+		"_id" : "Assistant Manager"
+	},
+	{
+		"_id" : "Business Systems Development Analyst"
+	},
+	{
+		"_id" : "Editor"
+	},
+	{
+		"_id" : "Marketing Assistant"
+	},
+	{
+		"_id" : "VP Marketing"
+	},
+	{
+		"_id" : "Administrative Officer"
+	},
+	{
+		"_id" : "Account Representative III"
+	},
+	{
+		"_id" : "Geologist I"
+	},
+	{
+		"_id" : "VP Product Management"
+	},
+	{
+		"_id" : "Engineer I"
+	},
+	{
+		"_id" : "Engineer II"
+	},
+	{
+		"_id" : "Staff Accountant II"
+	},
+	{
+		"_id" : "Software Engineer IV"
+	},
+	{
+		"_id" : "Geologist IV"
+	},
+	{
+		"_id" : "Computer Systems Analyst II"
+	},
+	{
+		"_id" : "Account Representative IV"
+	},
+	{
+		"_id" : "Information Systems Manager"
+	},
+	{
+		"_id" : "Accounting Assistant I"
+	},
+	{
+		"_id" : "Payment Adjustment Coordinator"
+	},
+	{
+		"_id" : "Speech Pathologist"
+	},
+	{
+		"_id" : "Social Worker"
+	},
+	{
+		"_id" : "Design Engineer"
+	},
+	{
+		"_id" : "Nuclear Power Engineer"
+	},
+	{
+		"_id" : "Safety Technician I"
+	},
+	{
+		"_id" : "Administrative Assistant I"
+	},
+	{
+		"_id" : "Health Coach I"
+	},
+	{
+		"_id" : "Software Engineer II"
+	},
+	{
+		"_id" : "Developer III"
+	},
+	{
+		"_id" : "Programmer I"
+	},
+	{
+		"_id" : "Software Engineer III"
+	}
 ]
-Type "it" for more
 {
-  _id: ObjectId("6169c546af8a20a4ef3b1ee6"),
-  sex: 'Female',
-  first_name: 'Lois',
-  last_name: 'Garcia',
-  job: 'Safety Technician II',
-  email: 'lgarcia8r@reuters.com',
-  location: {
-    city: 'Turinsk',
-    address: { streetname: 'Magdeline', streetnumber: '09' }
-  },
-  description: 'interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa',
-  height: '172.79',
-  weight: '60.37',
-  birth_date: '1965-07-09T16:13:09Z',
-  nationality: 'Russia',
-  credit: [
-    {
-      type: 'maestro',
-      number: '3535474355393526',
-      currency: 'EUR',
-      balance: '5457.23'
-    },
-    {
-      type: 'americanexpress',
-      number: '337941929622586',
-      currency: 'SEK',
-      balance: '3733.14'
-    },
-    {
-      type: 'bankcard',
-      number: '30288472474977',
-      currency: 'CNY',
-      balance: '5841.67'
-    },
-    {
-      type: 'mastercard',
-      number: '3588282837289741',
-      currency: 'XCD',
-      balance: '5346.45'
-    }
-  ]
+	"_id" : ObjectId("617c2f81b081c9c50c2d0172"),
+	"sex" : "Female",
+	"first_name" : "Lois",
+	"last_name" : "Garcia",
+	"job" : "Safety Technician II",
+	"email" : "lgarcia8r@reuters.com",
+	"location" : {
+		"city" : "Turinsk",
+		"address" : {
+			"streetname" : "Magdeline",
+			"streetnumber" : "09"
+		}
+	},
+	"description" : "interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa",
+	"height" : "172.79",
+	"weight" : "60.37",
+	"birth_date" : "1965-07-09T16:13:09Z",
+	"nationality" : "Russia",
+	"credit" : [
+		{
+			"type" : "maestro",
+			"number" : "3535474355393526",
+			"currency" : "EUR",
+			"balance" : "5457.23"
+		},
+		{
+			"type" : "americanexpress",
+			"number" : "337941929622586",
+			"currency" : "SEK",
+			"balance" : "3733.14"
+		},
+		{
+			"type" : "bankcard",
+			"number" : "30288472474977",
+			"currency" : "CNY",
+			"balance" : "5841.67"
+		},
+		{
+			"type" : "mastercard",
+			"number" : "3588282837289741",
+			"currency" : "XCD",
+			"balance" : "5346.45"
+		}
+	]
 }

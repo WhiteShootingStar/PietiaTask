@@ -1,10 +1,10 @@
 var mapFunction=function(){
 
-var key= this.sex
+var key= this.sex;
 var value={
 count:1,
-weight: parceFloat(this.weight),
-height:parceFloat(this.height)
+weight: parseFloat(this.weight),
+height:parseFloat(this.height)
 };
 
 emit(key,value);

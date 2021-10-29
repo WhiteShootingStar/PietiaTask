@@ -1,20 +1,16 @@
-Current Mongosh Log ID:	61772cf0305528a575344f37
-Connecting to:		mongodb+srv://cluster0.cud6a.mongodb.net/myFirstDatabase
-Using MongoDB:		4.4.10
-Using Mongosh:		1.1.0
-
-For mongosh info see: [1mhttps://docs.mongodb.com/mongodb-shell/[0m
-
-Loading file: ./mongoDB_Results/task2_1_agr.js
+MongoDB shell version v5.0.3
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("a7bf6869-68ef-4ade-814a-1ed553359d9d") }
+MongoDB server version: 5.0.3
 [
-  {
-    _id: 'Male',
-    avg_height: 166.73224712295578,
-    avg_weight: 70.00921865536039
-  },
-  {
-    _id: 'Female',
-    avg_height: 166.81260913705583,
-    avg_weight: 70.11331573604062
-  }
+	{
+		"_id" : "Female",
+		"avg_height" : 167.12617499498293,
+		"avg_weight" : 70.11384105960265
+	},
+	{
+		"_id" : "Male",
+		"avg_height" : 167.0800817221447,
+		"avg_weight" : 70.00180785329879
+	}
 ]
