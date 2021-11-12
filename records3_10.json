@@ -1,0 +1,160 @@
+﻿[
+  {
+    "person": {
+"identity": 174,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Joe Johnston"
+      }
+    },
+    "screen1": {
+"identity": 176,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Stephen McFeely"
+      }
+    },
+    "actor": {
+"identity": 177,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Chris Evans"
+      }
+    },
+    "America": {
+"identity": 173,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    }
+  },
+  {
+    "person": {
+"identity": 174,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Joe Johnston"
+      }
+    },
+    "screen1": {
+"identity": 176,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Stephen McFeely"
+      }
+    },
+    "actor": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    },
+    "America": {
+"identity": 173,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    }
+  },
+  {
+    "person": {
+"identity": 174,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Joe Johnston"
+      }
+    },
+    "screen1": {
+"identity": 175,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Christopher Markus"
+      }
+    },
+    "actor": {
+"identity": 177,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Chris Evans"
+      }
+    },
+    "America": {
+"identity": 173,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    }
+  },
+  {
+    "person": {
+"identity": 174,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Joe Johnston"
+      }
+    },
+    "screen1": {
+"identity": 175,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Christopher Markus"
+      }
+    },
+    "actor": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    },
+    "America": {
+"identity": 173,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    }
+  }
+]
