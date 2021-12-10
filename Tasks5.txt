@@ -1,0 +1,51 @@
+Task:1
+
+C:\Users\Artsiom>curl --request PUT http://localhost:8098/buckets/s16550/keys/key2 -H "Content-Type: application/json" -d "{'name': 'Bruce Springsteen', 'nationality': 'BEL', 'Age': 228 ,'Salary': 322.228 }"
+
+C:\Users\Artsiom>curl --request PUT http://localhost:8098/buckets/s16550/keys/key1 -H "Content-Type: application/json" -d "{'name': 'Bruce Springsteen', 'nationality': 'BEL', 'Age': 228 ,'Salary': 322.228 }"
+
+C:\Users\Artsiom>curl --request PUT http://localhost:8098/buckets/s16550/keys/key3 -H "Content-Type: application/json" -d "{'name': 'Bruce Springsteen', 'nationality': 'BEL', 'Age': 228 ,'Salary': 322.228 }"
+
+C:\Users\Artsiom>curl --request PUT http://localhost:8098/buckets/s16550/keys/key4 -H "Content-Type: application/json" -d "{'name': 'Bruce Springsteen', 'nationality': 'BEL', 'Age': 228 ,'Salary': 322.228 }"
+
+C:\Users\Artsiom>curl --request PUT http://localhost:8098/buckets/s16550/keys/key5 -H "Content-Type: application/json" -d "{'name': 'Bruce Springsteen', 'nationality': 'BEL', 'Age': 228 ,'Salary': 322.228 }"
+
+Task2 :
+C:\Users\Artsiom>curl http://localhost:8098/buckets/s16550/keys/key5
+{'name': 'Bruce Springsteen', 'nationality': 'BEL', 'Age': 228 ,'Salary': 322.228 }
+
+
+Task3
+C:\Users\Artsiom>curl --request PUT http://localhost:8098/buckets/s16550/keys/key5 -H "Content-Type: application/json" -d "{'name': 'Bruce Springsteen', 'nationality': 'BEL', 'Age': 228 ,'Salary': 322.228, 'How often poops': 'Every day' }"
+
+Task4
+C:\Users\Artsiom>curl --request PUT http://localhost:8098/buckets/s16550/keys/key5 -H "Content-Type: application/json" -d "{'name': 'Bruce Springsteen', 'nationality': 'BEL', 'Age': 228 ,'Salary': 322.228 }"
+
+Task5
+C:\Users\Artsiom>curl --request PUT http://localhost:8098/buckets/s16550/keys/key5 -H "Content-Type: application/json" -d "{'name': 'Bruce Springsteen', 'nationality': 'BEL', 'Age': 228 ,'Salary': 666 }"
+
+TAsk6
+C:\Users\Artsiom>curl --request DELETE http://localhost:8098/buckets/s16550/keys/key5
+
+Task7
+not found
+
+Task 8
+C:\Users\Artsiom>curl -i --request POST http://localhost:8098/buckets/s16550/keys/ -H "Content-Type: application/json" -d "{'name': 'Bruce Springsteen', 'nationality': 'BEL', 'Age': 228 ,'Salary': 666 }"
+HTTP/1.1 201 Created
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Location: /buckets/s16550/keys/DGUcteKASb8O0mVtInzplik1vDB
+Date: Fri, 03 Dec 2021 19:31:38 GMT
+Content-Type: application/json
+Content-Length: 0
+
+TAsk 9
+C:\Users\Artsiom>curl http://localhost:8098/buckets/s16550/keys/DGUcteKASb8O0mVtInzplik1vDB
+{'name': 'Bruce Springsteen', 'nationality': 'BEL', 'Age': 228 ,'Salary': 666 }
+
+TAKS 10
+curl --request DELETE http://localhost:8098/buckets/s16550/keys/DGUcteKASb8O0mVtInzplik1vDB
+
+C:\Users\Artsiom>curl http://localhost:8098/buckets/s16550/keys/DGUcteKASb8O0mVtInzplik1vDB
+not found

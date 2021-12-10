@@ -1,0 +1,7 @@
+
+{'name': 'Bruce Springsteen', 'nationality': 'BEL', 'Age': 228 ,'Salary': 322.228 }
+
+{'name': 'Artsiom is the Best', 'nationality': 'BEL', 'Age': 228 ,'Salary': Noone pays in gamedev this much }
+
+
+These are the only lines for this task. I can't get to return anuthing else
